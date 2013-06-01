@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+# Netbeans Ignore
+build
+dist
+private
+doc
+test
